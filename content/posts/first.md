@@ -1,5 +1,5 @@
 ---
-title: "First"
+title: "AI and ML Interview Preparation"
 date: 2022-08-18T11:32:51+05:30
 draft: false
 cover:
@@ -7,7 +7,7 @@ cover:
   alt: "This is post image"
   caption: "This is a caption"
 
-tags: ["html", "css"]
+tags: ["Artificial Intelligence", "Machine Learning"]
 categories: ["tech"]
 ---
 

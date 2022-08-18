@@ -5,8 +5,8 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Hello Stranger"
-    Content: Welcome to my blog. Here you'll find a lot cool information about cool stuff
+    Title: "LearnCodeOnline.in Blogs"
+    Content: Welcome to LCO Blog. Here you will learn about tech
   socialIcons:
     - name: facebook
       url: "www.facebook.com"
